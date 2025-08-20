@@ -7,5 +7,4 @@
 - Gabriel Thiago
 
 ## Tema: Aleatório
-## Objetivo: O site deve permitir a navegação entre as três páginas, além de utilizar um
-formulário em Fale Conosco.
+## Objetivo: O site deve permitir a navegação entre as três páginas, além de utilizar um formulário em Fale Conosco.
